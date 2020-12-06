@@ -1,15 +1,13 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Contact Us
+subtitle: ''
+description: This is meta description
+
 ---
+### 為什麼要聯繫我們！
 
+絕食ipsum dolor坐下，一直保持著上風。Velitrecusandae使temporbus temprobus porro culpa ipsa變質，使sisi Laboratoram Debitis nesciunt最小化。
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **電話：+88 125 256 452**
+* **郵件：info@bigspring.com**
+* **地址：巴西里約熱內盧360 Main rd**
