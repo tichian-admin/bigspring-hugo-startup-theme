@@ -11,24 +11,24 @@ feature:
   enable: true
   title: 全方位滿足您的需求
   feature_item:
-  - name: Clean Code
+  - name: 便於連接
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: 支援多種通信協定(TCP,MQTT,UDP,CoAP)等，靈活連接您的 IOT 裝置
+  - name: 不斷成長
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+    content: 持續開發方便好用的功能提供給企業選用
+  - name: 隨時在線
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+    content: 完善的系統架構盡可能確保您的服務隨時在線
+  - name: 訂閱服務
     icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+    content: 可自由選擇採用線上訂閱或者在您的環境搭建服務
+  - name: 聯絡我們
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+    content: 專屬團隊解決您遇到的任何問題
+  - name: 雲端服務
     icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: 線上平台提供完整的服務與推陳出新的各類服務
 service:
   enable: true
   service_item:
