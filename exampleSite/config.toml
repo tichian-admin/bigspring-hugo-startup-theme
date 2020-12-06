@@ -53,15 +53,15 @@ URL = "faq"
 name = "FAQ"
 weight = 4
 [params]
-author = "Themefisher"
+author = "JustLink"
 contact_form_action = "#"
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-description = "This is meta description"
+description = "home page"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-logo = "images/logo1.png"
+logo = "images/logo.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
