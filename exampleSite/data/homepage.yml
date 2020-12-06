@@ -1,6 +1,6 @@
 ---
 banner:
-  title: 收集資料並在其中為您挖掘價值 <br> 為企業打造的新一代 IOT 平台，讓您的策略贏在起點
+  title: 收集資料、挖掘價值 <br> 為企業打造的新一代 IOT 平台
   image: images/banner-art.svg
   content: 用現代的開發技術與豐富的產業經驗為打造的產品 <br> 兼具效能、實用與美觀的最佳解決方案
   button:
@@ -9,7 +9,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: 全方位滿足您的需求
   feature_item:
   - name: Clean Code
     icon: ti-pulse
