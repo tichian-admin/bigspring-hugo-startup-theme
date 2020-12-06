@@ -60,7 +60,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: 現在就開始使用 JustLink <br> 從資料裡挖掘價值
   image: images/screenshot.svg
 call_to_action:
   enable: true
