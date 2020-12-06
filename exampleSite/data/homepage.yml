@@ -64,11 +64,10 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: 準備開始了嗎?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: 按下按鈕留下您的疑問，我們將會盡快回復您
   button:
     enable: true
-    label: Contact Us
+    label: 聯絡我們
     link: contact
