@@ -61,7 +61,7 @@ footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristiqu
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-logo = "images/logo.png"
+logo = "images/logo1.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
