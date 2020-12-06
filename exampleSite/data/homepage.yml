@@ -13,22 +13,22 @@ feature:
   feature_item:
   - name: 便於連接
     icon: ti-pulse
-    content: 支援多種通信協定(TCP,MQTT,UDP,CoAP)等，靈活連接您的 IOT 裝置
+    content: 支援多種通信協定，靈活連接您的 IOT 裝置
   - name: 不斷成長
     icon: ti-package
     content: 持續開發方便好用的功能提供給企業選用
   - name: 隨時在線
     icon: ti-alarm-clock
-    content: 完善的系統架構盡可能確保您的服務隨時在線
+    content: 完善的系統架構，確保您的服務隨時在線
   - name: 訂閱服務
     icon: ti-credit-card
-    content: 可自由選擇採用線上訂閱或者在您的環境搭建服務
+    content: 提供地端安裝與線上平台供您選擇
   - name: 聯絡我們
     icon: ti-headphone-alt
     content: 專屬團隊解決您遇到的任何問題
   - name: 雲端服務
     icon: ti-cloud-up
-    content: 線上平台提供完整的服務與推陳出新的各類服務
+    content: 您享受服務，把加班維護留給我們
 service:
   enable: true
   service_item:
